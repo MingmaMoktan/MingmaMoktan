@@ -31,5 +31,6 @@
 
 ### 🔝 Top Contributed Repos:
 [![DummyProjectWebDesign](https://github-readme-stats.vercel.app/api/pin/?username=Mingma-Moktan&repo=DummyProjectWebDesign)](https://github.com/Mingma-Moktan/DummyProjectWebDesign)
-[![MIngma-NepalDarshanCurch-Website ](https://github-readme-stats.vercel.app/api/pin/?username=Mingma-Moktan&repo=MIngma-NepalDarshanCurch-Website)](https://github.com/Mingma-Moktan/MIngma-NepalDarshanCurch-Website)
+[![MIngma-NepalDarshanChurch-Website](https://github-readme-stats.vercel.app/api/pin/?username=Mingma-Moktan&repo=MIngma-NepalDarshanChurch-Website)](https://github.com/Mingma-Moktan/MIngma-NepalDarshanChurch-Website)
+
 
