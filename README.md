@@ -30,7 +30,7 @@
 <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Logo" width="40" height="40"/></a>
 
 ### 🔝 Top Contributed Repos:
-[![DummyProjectWebDesign](https://github-readme-stats.vercel.app/api/pin/?username=Mingma-Moktan&repo=DummyProjectWebDesign)](https://github.com/Mingma-Moktan/DummyProjectWebDesign)
+[![DummyProjectWebdesign](https://github-readme-stats.vercel.app/api/pin/?username=Mingma-Moktan&repo=DummyProjectWebdesign)](https://github.com/Mingma-Moktan/DummyProjectWebdesign)
 [![MIngma-NepalDarshanChurch-Website](https://github-readme-stats.vercel.app/api/pin/?username=Mingma-Moktan&repo=MIngma-NepalDarshanChurch-Website)](https://github.com/Mingma-Moktan/MIngma-NepalDarshanChurch-Website)
 
 
