@@ -29,5 +29,7 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Logo" width="40" height="40"/></a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mingma-Moktan&limit=2&theme=flat&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repos:
+[![DummyProjectWebDesign](https://github-readme-stats.vercel.app/api/pin/?username=Mingma-Moktan&repo=DummyProjectWebDesign)](https://github.com/Mingma-Moktan/DummyProjectWebDesign)
+[![MIngma-NepalDarshanCurch-Website ](https://github-readme-stats.vercel.app/api/pin/?username=Mingma-Moktan&repo=MIngma-NepalDarshanCurch-Website)](https://github.com/Mingma-Moktan/MIngma-NepalDarshanCurch-Website)
+
