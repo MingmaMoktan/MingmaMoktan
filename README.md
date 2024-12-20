@@ -34,4 +34,5 @@
 [![DummyProjectWebDesign](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=DummyProjectWebDesign)](https://github.com/MingmaMoktan/DummyProjectWebDesign)
 
 [![MIngma-NepalDarshanChurch-Website](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Mingma-NepalDarshanChurch-Website)](https://github.com/MingmaMoktan/MIngma-NepalDarshanChurch-Website)
-[i[1.2-Project-Future-of-Webdesign](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=1.2-Project-Future-of-Webdesign)](https://github.com/MingmaMoktan/1.2-Project-Future-of-Webdesign.git)
+
+[![1.2-Project-Future-of-Webdesign](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=1.2-Project-Future-of-Webdesign)](https://github.com/MingmaMoktan/1.2-Project-Future-of-Webdesign.git)
