@@ -29,10 +29,8 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Logo" width="40" height="40"/></a>
 
-### 🔝 Top Contributed Repos:
+### 🔝 Top project Repos:
 
-[![My-Web-design-Projects](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My-Web-design-Projects)](https://github.com/MingmaMoktan/My-Web-design-Projects)
+[![Spotify-clone](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My-Web-design-Projects)](https://github.com/MingmaMoktan/My-Web-design-Projects)
 
-[![Mingma-NepalDarshanChurch-Website](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Mingma-NepalDarshanChurch-Website)](https://github.com/MingmaMoktan/MIngma-NepalDarshanChurch-Website)
-
-[![1.2-Project-Future-of-Webdesign](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=1.2-Project-Future-of-Webdesign)](https://github.com/MingmaMoktan/1.2-Project-Future-of-Webdesign.git)
+[![Chat-bot-using-django](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects)](https://github.com/MingmaMoktan/1.2-Project-Future-of-Webdesign.git)
