@@ -33,4 +33,4 @@
 
 [![Spotify-clone](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My-Web-design-Projects)](https://github.com/MingmaMoktan/My-Web-design-Projects)
 
-[![Chat-bot-using-django](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects)](https://github.com/MingmaMoktan/1.2-Project-Future-of-Webdesign.git)
+[![Chat-bot-using-django](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects)](https://github.com/MingmaMoktan/My_Py_Projects)
