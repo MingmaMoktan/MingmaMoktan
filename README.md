@@ -30,7 +30,8 @@
 <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Logo" width="40" height="40"/></a>
 
 ### 🔝 Top project Repos:
+[![ETL_Project_1](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=ETL_Project_1)](https://github.com/MingmaMoktan/ETL_Project_1)
 
-[![Spotify-clone](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My-Web-design-Projects)](https://github.com/MingmaMoktan/My-Web-design-Projects)
+[![Spotify-clone](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone)](https://github.com/MingmaMoktan/Spotify_clone)
 
 [![Chat-bot-using-django](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects)](https://github.com/MingmaMoktan/My_Py_Projects)
