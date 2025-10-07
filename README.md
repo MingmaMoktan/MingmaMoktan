@@ -2,58 +2,64 @@
 <h3 align="center">
 A passionate Data Engineering student at SAMK Pori, Finland, focused on building efficient ETL pipelines, automating workflows, and designing robust relational database systems. Currently developing skills in Python, SQL, Apache Airflow, and Kafka through hands-on projects. Committed to continuous learning and eager to apply data engineering techniques to solve real-world problems and contribute effectively in junior data engineering roles.
 </h3>
-<p align="left">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MingmaMoktan/Mingma-Moktan/main/assets/work.gif" width="400"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=MingmaMoktan&label=Profile%20views&color=0e75b6&style=flat" alt="MingmaMoktan" />
 </p>
 
+### 🔭 About Me
+- Currently studying **Data Engineering & ML** at Satakunta University of Applied Sciences  
+- Focused on ETL pipelines, automation, relational databases, and real-time data streaming  
+- Passionate about hands-on projects and learning new data engineering tools and frameworks  
+- Open to internships and junior data engineering roles  
 
-- 🔭 I’m currently studying Data Engineering and ML in Satakunta University of Applied Sciences.
-- 
-- 👨‍💻 All of my projects are available at "https://github.com/MingmaMoktan/Mingma-Moktan"
+### 📫 How to Reach Me
+- Email: **mingma.moktan0831@gmail.com**  
+- LinkedIn: [Mingma Moktan](https://www.linkedin.com/in/mingma-moktan)  
+- Facebook: [Link](https://www.facebook.com/profile.php?id=100008373095713)  
+- Instagram: [Link](https://www.instagram.com/david.salome_moktan/profilecard/?igsh=ZXE3emk3anV6bzBq)  
 
-- 💬 Ask me about **Data Engineering, AI and ML.**
+### 🛠 Languages and Tools
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/airflow/airflow-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 
-- 📫 How to reach me **mingma.moktan0831@gmail.com**
+## 🚀 GitHub Stats
+![Mingma's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingmaMoktan&show_icons=true&count_private=true&theme=swift)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MingmaMoktan&layout=compact&theme=swift)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mingma-moktan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakash-layo-magar-16603a166/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100008373095713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/peter.magar.73" height="30" width="40" /></a>
-<a href="https://www.instagram.com/david.salome_moktan/profilecard/?igsh=ZXE3emk3anV6bzBq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peter_magar/" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Logo" width="40" height="40"/></a>
-
-## 🚀 Featured Projects
-
+## 🏗 Featured Projects
 <table align="center">
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/MingmaMoktan/ETL_Project_1">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=ETL_Project_1&cache_seconds=1" />
       </a>
     </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/MingmaMoktan/Automated_backup_script">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Automated_backup_script&cache_seconds=1" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/MingmaMoktan/Spotify_clone">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone&cache_seconds=1" />
       </a>
     </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/MingmaMoktan/My_Py_Projects">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects&cache_seconds=1" />
       </a>
@@ -61,19 +67,9 @@ A passionate Data Engineering student at SAMK Pori, Finland, focused on building
   </tr>
 </table>
 
-## 🚀 My Projects
+## 🔧 Upcoming Projects
+- **RDBMS & SQL Project** – Database design and complex SQL querying project *(Coming soon)*  
+- **Data Engineering Portfolio Project 1** – ETL/Big Data workflow project *(Coming soon)*  
+- **Data Engineering Portfolio Project 2** – Real-time data streaming with Kafka *(Coming soon)*  
 
-Here are some of my hands-on Data Engineering projects. Click the links to explore the code:
-
-- [**ETL_Project_1**](https://github.com/MingmaMoktan/ETL_Project_1) – Built an ETL pipeline to extract, transform, and load data efficiently using Python and SQL.  
-- [**Automated_backup_script**](https://github.com/MingmaMoktan/Automated_backup_script) – Python script that automates backups of files and databases.  
-- [**Spotify_clone**](https://github.com/MingmaMoktan/Spotify_clone) – Frontend clone of Spotify using HTML, CSS, and JavaScript.  
-- [**Chat-bot-using-django**](https://github.com/MingmaMoktan/My_Py_Projects) – Django-based chatbot application with simple AI features.  
-
-### 🔧 Upcoming Projects
-- [**RDBMS & SQL Project**](#) – Database design and complex SQL querying project. *(Coming soon)*  
-- [**Data Engineering Portfolio Project 1**](#) – ETL/Big Data workflow project. *(Coming soon)*  
-- [**Data Engineering Portfolio Project 2**](#) – Real-time data streaming with Kafka. *(Coming soon)*  
-
-> You can explore all my repositories at [my GitHub profile](https://github.com/MingmaMoktan/Mingma-Moktan)
-
+> Explore all my repositories at [my GitHub profile](https://github.com/MingmaMoktan/Mingma-Moktan)
