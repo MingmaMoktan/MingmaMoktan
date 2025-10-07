@@ -38,34 +38,33 @@
 
 [![Chat-bot-using-django](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects)](https://github.com/MingmaMoktan/My_Py_Projects)
 
-<table width="100%" cellpadding="15" cellspacing="0" style="table-layout: fixed; border-collapse: collapse;">
+## 🚀 Featured Projects
+
+<table align="center">
   <tr>
-    <td align="center" width="50%" style="padding: 10px;">
+    <td width="33%" align="center">
       <a href="https://github.com/MingmaMoktan/ETL_Project_1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=ETL_Project_1" width="180" alt="ETL Project 1"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=ETL_Project_1" />
       </a>
-      <br>ETL Pipeline: World’s Largest Banks
     </td>
-    <td align="center" width="50%" style="padding: 10px;">
+    <td width="33%" align="center">
       <a href="https://github.com/MingmaMoktan/Automated_backup_script">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Automated_backup_script" width="180" alt="Automated Backup Script"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Automated_backup_script" />
       </a>
-      <br>Automated Backup Script
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/MingmaMoktan/Spotify_clone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" style="padding: 10px;">
-      <a href="https://github.com/MingmaMoktan/Spotify_clone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone" width="180" alt="Spotify Clone"/>
-      </a>
-      <br>Spotify Clone
-    </td>
-    <td align="center" width="50%" style="padding: 10px;">
+    <td width="33%" align="center">
       <a href="https://github.com/MingmaMoktan/My_Py_Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects" width="180" alt="Chat Bot Using Django"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects" />
       </a>
-      <br>Chat Bot Using Django
     </td>
+    <td width="33%" align="center"> </td>
+    <td width="33%" align="center"> </td>
   </tr>
 </table>
-
