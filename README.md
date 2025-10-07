@@ -52,7 +52,7 @@
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/MingmaMoktan/My_Py_Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects&cache_seconds=1" />
       </a>
     </td>
   </tr>
