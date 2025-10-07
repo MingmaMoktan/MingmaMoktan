@@ -39,31 +39,31 @@
 [![Chat-bot-using-django](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects)](https://github.com/MingmaMoktan/My_Py_Projects)
 
 
-## My Projects
+### 🔝 Top project Repos:
 
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/MingmaMoktan/ETL_Project_1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=ETL_Project_1" alt="ETL_Project_1" width="200"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=ETL_Project_1" alt="ETL_Project_1">
       </a>
       <br>ETL Project 1
     </td>
     <td align="center">
       <a href="https://github.com/MingmaMoktan/Automated_backup_script">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Automated_backup_script" alt="Automated_backup_script" width="200"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Automated_backup_script" alt="Automated_backup_script">
       </a>
       <br>Automated Backup Script
     </td>
     <td align="center">
       <a href="https://github.com/MingmaMoktan/Spotify_clone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone" alt="Spotify_clone" width="200"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone" alt="Spotify_clone">
       </a>
       <br>Spotify Clone
     </td>
     <td align="center">
       <a href="https://github.com/MingmaMoktan/My_Py_Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects" alt="My_Py_Projects" width="200"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects" alt="My_Py_Projects">
       </a>
       <br>Chat Bot Using Django
     </td>
