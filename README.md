@@ -10,19 +10,16 @@
 
 ### 🔭 About Me
 - Student of **Data Engineering & ML** at Satakunta University of Applied Sciences
-- 💻 Currently learning **Apache Airflow, Kafka, ETL pipelines, Python, and SQL**.
+- 💻 Currently learning **Apache Airflow <img src="Assets/Apache_airflow.png" width="30" />, Kafka <img src="Assets/Apache_kafka.png" width="30" />   , ETL pipelines, Python, and SQL**.
 - Passionate about hands-on projects and learning new data engineering tools and frameworks  
 - Open to internships and junior data engineering roles  
 
 ### 📫 How to Reach Me
-<p align="left">
-  <a href="mailto:mingma.moktan0831@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" height="30" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/mingma-moktan">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" alt="LinkedIn" />
-  </a>
-</p>
+### Contact
+- <img src="Assets/Email_icon.png" width="20" /> **Email:** [mingma.moktan0831@gmail.com](mailto:mingma.moktan0831@gmail.com)  
+- <img src="Assets/LinkedIn.png" width="20" /> **LinkedIn:** [Mingma Moktan](https://www.linkedin.com/in/mingma-moktan)  
+
+
 
 ### 🛠 Languages and Tools
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
