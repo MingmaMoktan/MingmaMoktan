@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at "https://github.com/MingmaMoktan/Mingma-Moktan"
 
-- 💬 Ask me about **Data Engineering, AI, ML, Data Analytics and Data Science**
+- 💬 Ask me about **Data Engineering, AI and ML.**
 
 - 📫 How to reach me **mingma.moktan0831@gmail.com**
 
