@@ -40,19 +40,19 @@
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/MingmaMoktan/Automated_backup_script">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Automated_backup_script&cache_seconds=1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Automated_backup_script" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center">
       <a href="https://github.com/MingmaMoktan/Spotify_clone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone&cache_seconds=1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone" />
       </a>
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/MingmaMoktan/My_Py_Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects&cache_seconds=1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects" />
       </a>
     </td>
   </tr>
