@@ -10,13 +10,7 @@
 
 ### 🔭 About Me
 - Student of **Data Engineering & ML** at Satakunta University of Applied Sciences
-- 💻 Currently learning **Apache Airflow, Kafka, ETL pipelines, Python, and SQL**.  
-<div>
-  <code><img height="20" src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg"></code>
-  <code><img height="20" src="https://www.vectorlogo.zone/logos/apache/kafka-icon.svg"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-</div>
+- 💻 Currently learning **Apache Airflow, Kafka, ETL pipelines, Python, and SQL**.
 - Passionate about hands-on projects and learning new data engineering tools and frameworks  
 - Open to internships and junior data engineering roles  
 
