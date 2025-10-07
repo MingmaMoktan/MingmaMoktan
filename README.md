@@ -23,7 +23,7 @@
 ### 🛠 Languages & Tools
 <p align="center">
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/psql/psql-original.svg"></code>
   <code><img height="30" src="Assets/Apache_airflow.png"></code>
   <code><img height="30" src="Assets/Apache_kafka.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
