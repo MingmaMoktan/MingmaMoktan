@@ -35,7 +35,7 @@
   <tr>
     <td width="33%" align="center">
       <a href="https://github.com/MingmaMoktan/ETL_Project_1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=ETL_Project_1cache_seconds=1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=ETL_Project_1&cache_seconds=1" />
       </a>
     </td>
     <td width="33%" align="center">
