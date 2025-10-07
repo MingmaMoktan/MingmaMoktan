@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mingma Moktan</h1>
-<h3 align="center">
-A passionate Data Engineering student at SAMK Pori, Finland, focused on building efficient ETL pipelines, automating workflows, and designing robust relational database systems. Currently developing skills in Python, SQL, Apache Airflow, and Kafka through hands-on projects. Committed to continuous learning and eager to apply data engineering techniques to solve real-world problems and contribute effectively in junior data engineering roles.
-</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MingmaMoktan/Mingma-Moktan/main/assets/work.gif" width="400"/>
