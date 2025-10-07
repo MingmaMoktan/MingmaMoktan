@@ -15,10 +15,8 @@
 - Open to internships and junior data engineering roles  
 
 ### 📫 How to Reach Me
-- Email: **mingma.moktan0831@gmail.com**  
-- LinkedIn: [Mingma Moktan](https://www.linkedin.com/in/mingma-moktan)  
-- Facebook: [Link](https://www.facebook.com/profile.php?id=100008373095713)  
-- Instagram: [Link](https://www.instagram.com/david.salome_moktan/profilecard/?igsh=ZXE3emk3anV6bzBq)  
+- Email: <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" height="20" /> **mingma.moktan0831@gmail.com**  
+- LinkedIn: <a href="https://www.linkedin.com/in/mingma-moktan"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="20" /> Mingma Moktan</a>
 
 ### 🛠 Languages and Tools
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
