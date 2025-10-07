@@ -18,16 +18,14 @@
 <p align="center">
   <a href="mailto:mingma.moktan0831@gmail.com"><img src="Assets/Email_icon.png" width="30" /></a>
   <a href="https://www.linkedin.com/in/mingma-moktan"><img src="Assets/LinkedIn.png" width="30" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100008373095713"><img src="Assets/Facebook.png" width="30" /></a>
-  <a href="https://www.instagram.com/david.salome_moktan/profilecard/?igsh=ZXE3emk3anV6bzBq"><img src="Assets/Instagram.png" width="30" /></a>
 </p>
 
 ### 🛠 Languages & Tools
 <p align="center">
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/airflow/airflow-original.svg"></code>
+  <code><img height="30" src="Assets/Apache_airflow.png"></code>
+  <code><img height="30" src="Assets/Apache_kafka.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
