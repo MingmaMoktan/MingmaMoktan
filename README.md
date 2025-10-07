@@ -59,3 +59,21 @@
     <td width="33%" align="center"> </td>
   </tr>
 </table>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/MingmaMoktan/ETL_Project_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=ETL_Project_1" width="300" />
+  </a>
+  <a href="https://github.com/MingmaMoktan/Automated_backup_script">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Automated_backup_script" width="300" />
+  </a>
+  <a href="https://github.com/MingmaMoktan/Spotify_clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone" width="300" />
+  </a>
+  <a href="https://github.com/MingmaMoktan/My_Py_Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects" width="300" />
+  </a>
+</p>
+
