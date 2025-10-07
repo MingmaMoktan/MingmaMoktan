@@ -8,7 +8,7 @@ A passionate Data Engineering student at SAMK Pori, Finland, focused on building
 
 
 - 🔭 I’m currently studying Data Engineering and ML in Satakunta University of Applied Sciences.
-
+- 
 - 👨‍💻 All of my projects are available at "https://github.com/MingmaMoktan/Mingma-Moktan"
 
 - 💬 Ask me about **Data Engineering, AI and ML.**
@@ -60,3 +60,20 @@ A passionate Data Engineering student at SAMK Pori, Finland, focused on building
     </td>
   </tr>
 </table>
+
+## 🚀 My Projects
+
+Here are some of my hands-on Data Engineering projects. Click the links to explore the code:
+
+- [**ETL_Project_1**](https://github.com/MingmaMoktan/ETL_Project_1) – Built an ETL pipeline to extract, transform, and load data efficiently using Python and SQL.  
+- [**Automated_backup_script**](https://github.com/MingmaMoktan/Automated_backup_script) – Python script that automates backups of files and databases.  
+- [**Spotify_clone**](https://github.com/MingmaMoktan/Spotify_clone) – Frontend clone of Spotify using HTML, CSS, and JavaScript.  
+- [**Chat-bot-using-django**](https://github.com/MingmaMoktan/My_Py_Projects) – Django-based chatbot application with simple AI features.  
+
+### 🔧 Upcoming Projects
+- [**RDBMS & SQL Project**](#) – Database design and complex SQL querying project. *(Coming soon)*  
+- [**Data Engineering Portfolio Project 1**](#) – ETL/Big Data workflow project. *(Coming soon)*  
+- [**Data Engineering Portfolio Project 2**](#) – Real-time data streaming with Kafka. *(Coming soon)*  
+
+> You can explore all my repositories at [my GitHub profile](https://github.com/MingmaMoktan/Mingma-Moktan)
+
