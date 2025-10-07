@@ -47,7 +47,7 @@
   <tr>
     <td width="33%" align="center">
       <a href="https://github.com/MingmaMoktan/Spotify_clone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone&cache_seconds=1" />
       </a>
     </td>
     <td width="33%" align="center">
