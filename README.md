@@ -30,6 +30,42 @@
 <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Logo" width="40" height="40"/></a>
 
 ### 🔝 Top project Repos:
-[![ETL_Project_1](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=ETL_Project_1)](https://github.com/MingmaMoktan/ETL_Project_1) [![Automated_backup_script](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Automated_backup_script)](https://github.com/MingmaMoktan/Automated_backup_script)
+[![ETL_Project_1](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=ETL_Project_1)](https://github.com/MingmaMoktan/ETL_Project_1) 
 
-[![Spotify-clone](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone)](https://github.com/MingmaMoktan/Spotify_clone) [![Chat-bot-using-django](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects)](https://github.com/MingmaMoktan/My_Py_Projects)
+[![Automated_backup_script](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Automated_backup_script)](https://github.com/MingmaMoktan/Automated_backup_script)
+
+[![Spotify-clone](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone)](https://github.com/MingmaMoktan/Spotify_clone) 
+
+[![Chat-bot-using-django](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects)](https://github.com/MingmaMoktan/My_Py_Projects)
+
+
+## My Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MingmaMoktan/ETL_Project_1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=ETL_Project_1" alt="ETL_Project_1" width="200"/>
+      </a>
+      <br>ETL Project 1
+    </td>
+    <td align="center">
+      <a href="https://github.com/MingmaMoktan/Automated_backup_script">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Automated_backup_script" alt="Automated_backup_script" width="200"/>
+      </a>
+      <br>Automated Backup Script
+    </td>
+    <td align="center">
+      <a href="https://github.com/MingmaMoktan/Spotify_clone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone" alt="Spotify_clone" width="200"/>
+      </a>
+      <br>Spotify Clone
+    </td>
+    <td align="center">
+      <a href="https://github.com/MingmaMoktan/My_Py_Projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects" alt="My_Py_Projects" width="200"/>
+      </a>
+      <br>Chat Bot Using Django
+    </td>
+  </tr>
+</table>
