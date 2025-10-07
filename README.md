@@ -17,7 +17,7 @@
 ### 📫 How to Reach Me
 <p align="left">
   <a href="mailto:mingma.moktan0831@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" height="30" alt="Email" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" height="30" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/mingma-moktan">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" alt="LinkedIn" />
