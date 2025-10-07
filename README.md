@@ -40,7 +40,7 @@
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/MingmaMoktan/Automated_backup_script">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Automated_backup_script" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Automated_backup_script&cache_seconds=1" />
       </a>
     </td>
   </tr>
