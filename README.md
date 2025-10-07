@@ -32,6 +32,8 @@
 ### 🔝 Top project Repos:
 [![ETL_Project_1](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=ETL_Project_1)](https://github.com/MingmaMoktan/ETL_Project_1)
 
+[![Automated_backup_script](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Automated_backup_script)](https://github.com/MingmaMoktan/Automated_backup_script)
+
 [![Spotify-clone](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone)](https://github.com/MingmaMoktan/Spotify_clone)
 
 [![Chat-bot-using-django](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects)](https://github.com/MingmaMoktan/My_Py_Projects)
