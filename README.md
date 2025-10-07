@@ -38,13 +38,33 @@
 
 [![Chat-bot-using-django](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects)](https://github.com/MingmaMoktan/My_Py_Projects)
 
-
-## My Projects
-
-| [![ETL_Project_1](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=ETL_Project_1)](https://github.com/MingmaMoktan/ETL_Project_1) | [![Automated_backup_script](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Automated_backup_script)](https://github.com/MingmaMoktan/Automated_backup_script) |
-|:----------------------------------------------------------:|:--------------------------------------------------------------:|
-| ETL Pipeline: World's Largest Banks (Python project demonstrating logging, ETL, SQLite) | Automated Backup Script with Bash for file backups |
-
-| [![Spotify-clone](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone)](https://github.com/MingmaMoktan/Spotify_clone) | [![Chat-bot-using-django](https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects)](https://github.com/MingmaMoktan/My_Py_Projects) |
-|:----------------------------------------------------------:|:--------------------------------------------------------------:|
-| Spotify Clone: Music streaming app project | Chat Bot Using Django: Python/Django chatbot project |
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/MingmaMoktan/ETL_Project_1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=ETL_Project_1" width="180" alt="ETL Project 1"/>
+      </a>
+      <br>ETL Pipeline: World’s Largest Banks
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/MingmaMoktan/Automated_backup_script">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Automated_backup_script" width="180" alt="Automated Backup Script"/>
+      </a>
+      <br>Automated Backup Script
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/MingmaMoktan/Spotify_clone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone" width="180" alt="Spotify Clone"/>
+      </a>
+      <br>Spotify Clone
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/MingmaMoktan/My_Py_Projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects" width="180" alt="Chat Bot Using Django"/>
+      </a>
+      <br>Chat Bot Using Django
+    </td>
+  </tr>
+</table>
