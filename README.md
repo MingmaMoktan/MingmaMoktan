@@ -46,7 +46,6 @@
 </p>
 
 ## 🏗 Featured Projects
-## 🏗 Featured Projects
 
 ### 🚀 [ETL Project 1](https://github.com/MingmaMoktan/ETL_Project_1)
 <p>
