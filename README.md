@@ -46,32 +46,46 @@
 </p>
 
 ## 🏗 Featured Projects
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/MingmaMoktan/ETL_Project_1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=ETL_Project_1&cache_seconds=1" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/MingmaMoktan/Automated_backup_script">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Automated_backup_script&cache_seconds=1" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/MingmaMoktan/Spotify_clone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=Spotify_clone&cache_seconds=1" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/MingmaMoktan/My_Py_Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingmaMoktan&repo=My_Py_Projects&cache_seconds=1" />
-      </a>
-    </td>
-  </tr>
-</table>
+## 🏗 Featured Projects
+
+### 🚀 [ETL Project 1](https://github.com/MingmaMoktan/ETL_Project_1)
+<p>
+  <img src="https://img.shields.io/github/languages/top/MingmaMoktan/ETL_Project_1" />
+  <img src="https://img.shields.io/github/last-commit/MingmaMoktan/ETL_Project_1" />
+  <img src="https://img.shields.io/github/repo-size/MingmaMoktan/ETL_Project_1" />
+</p>
+Data extraction, cleaning, and loading pipeline using Python and SQL.
+
+---
+
+### 🛡️ [Automated Backup Script](https://github.com/MingmaMoktan/Automated_backup_script)
+<p>
+  <img src="https://img.shields.io/github/languages/top/MingmaMoktan/Automated_backup_script" />
+  <img src="https://img.shields.io/github/last-commit/MingmaMoktan/Automated_backup_script" />
+  <img src="https://img.shields.io/github/repo-size/MingmaMoktan/Automated_backup_script" />
+</p>
+A shell-based automated backup solution for scheduled file archiving.
+
+---
+
+### 🎧 [Spotify Clone](https://github.com/MingmaMoktan/Spotify_clone)
+<p>
+  <img src="https://img.shields.io/github/languages/top/MingmaMoktan/Spotify_clone" />
+  <img src="https://img.shields.io/github/last-commit/MingmaMoktan/Spotify_clone" />
+  <img src="https://img.shields.io/github/repo-size/MingmaMoktan/Spotify_clone" />
+</p>
+A UI clone of Spotify built using web technologies.
+
+---
+
+### 🐍 [My Python Projects](https://github.com/MingmaMoktan/My_Py_Projects)
+<p>
+  <img src="https://img.shields.io/github/languages/top/MingmaMoktan/My_Py_Projects" />
+  <img src="https://img.shields.io/github/last-commit/MingmaMoktan/My_Py_Projects" />
+  <img src="https://img.shields.io/github/repo-size/MingmaMoktan/My_Py_Projects" />
+</p>
+A collection of Python scripts, experiments, and mini-projects.
+
 
 ## 🔧 Upcoming Projects
 - **RDBMS & SQL Project** – Database design and complex SQL querying *(Coming soon)*  
