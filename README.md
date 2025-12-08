@@ -36,9 +36,10 @@
 
 ## 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MingmaMoktan&show_icons=true&count_private=true&theme=swift" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingmaMoktan&layout=compact&theme=swift" />
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=MingmaMoktan&show_icons=true&count_private=true&theme=swift" />
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=MingmaMoktan&layout=compact&theme=swift" />
 </p>
+
 
 ## 📊 GitHub Repository Contribution Stats
 <p align="center">
