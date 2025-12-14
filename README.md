@@ -34,13 +34,6 @@
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 </p>
 
-## 🚀 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=MingmaMoktan&show_icons=true&count_private=true&theme=swift" />
-  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=MingmaMoktan&layout=compact&theme=swift" />
-</p>
-
-
 ## 📊 GitHub Repository Contribution Stats
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=MingmaMoktan&combine_all_yearly_contributions=true&hide=B,B%2B&hide_contributor_rank=false&limit=10&order_by=contributions" alt="Mingma's GitHub Repository Contribution stats" />
