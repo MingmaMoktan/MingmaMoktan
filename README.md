@@ -79,10 +79,4 @@ A UI clone of Spotify built using web technologies.
 </p>
 A collection of Python scripts, experiments, and mini-projects.
 
-
-## 🔧 Upcoming Projects
-- **RDBMS & SQL Project** – Database design and complex SQL querying *(Coming soon)*  
-- **Data Engineering Portfolio Project 1** – ETL/Big Data workflow project *(Coming soon)*  
-- **Data Engineering Portfolio Project 2** – Real-time data streaming with Kafka *(Coming soon)*  
-
 > Explore all my repositories at [my GitHub profile](https://github.com/MingmaMoktan/Mingma-Moktan)
