@@ -34,14 +34,9 @@
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 </p>
 
-## 📊 GitHub Repository Contribution Stats
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MingmaMoktan&combine_all_yearly_contributions=true&hide=B,B%2B&hide_contributor_rank=false&limit=10&order_by=contributions" alt="Mingma's GitHub Repository Contribution stats" />
-</p>
-
 ## 🏗 Featured Projects
 
-### 🚀 [ETL Project 1](https://github.com/MingmaMoktan/ETL_Project_1)
+### [ETL Project 1](https://github.com/MingmaMoktan/ETL_Project_1)
 <p>
   <img src="https://img.shields.io/github/languages/top/MingmaMoktan/ETL_Project_1" />
   <img src="https://img.shields.io/github/last-commit/MingmaMoktan/ETL_Project_1" />
@@ -51,7 +46,7 @@ Data extraction, cleaning, and loading pipeline using Python and SQL.
 
 ---
 
-### 🛡️ [Automated Backup Script](https://github.com/MingmaMoktan/Automated_backup_script)
+### [Automated Backup Script](https://github.com/MingmaMoktan/Automated_backup_script)
 <p>
   <img src="https://img.shields.io/github/languages/top/MingmaMoktan/Automated_backup_script" />
   <img src="https://img.shields.io/github/last-commit/MingmaMoktan/Automated_backup_script" />
@@ -61,7 +56,7 @@ A shell-based automated backup solution for scheduled file archiving.
 
 ---
 
-### 🎧 [Spotify Clone](https://github.com/MingmaMoktan/Spotify_clone)
+### [Spotify Clone](https://github.com/MingmaMoktan/Spotify_clone)
 <p>
   <img src="https://img.shields.io/github/languages/top/MingmaMoktan/Spotify_clone" />
   <img src="https://img.shields.io/github/last-commit/MingmaMoktan/Spotify_clone" />
@@ -71,7 +66,7 @@ A UI clone of Spotify built using web technologies.
 
 ---
 
-### 🐍 [My Python Projects](https://github.com/MingmaMoktan/My_Py_Projects)
+### [My Python Projects](https://github.com/MingmaMoktan/My_Py_Projects)
 <p>
   <img src="https://img.shields.io/github/languages/top/MingmaMoktan/My_Py_Projects" />
   <img src="https://img.shields.io/github/last-commit/MingmaMoktan/My_Py_Projects" />
