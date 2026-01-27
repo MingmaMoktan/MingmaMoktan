@@ -43,7 +43,7 @@
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"></code>
 </p>
 
-## 🏗 Featured Projects
+## Featured Projects
 
 ### [ETL Project 1](https://github.com/MingmaMoktan/ETL_Project_1)
 <p>
