@@ -21,12 +21,6 @@
   <a href="https://dm3339.pythonanywhere.com/about/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Website">
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:YOUR_EMAIL@EXAMPLE.COM">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
 </p>
 
 ### 🛠 Languages & Tools
