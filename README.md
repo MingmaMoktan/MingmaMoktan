@@ -54,11 +54,11 @@ Implementation of a Q-learning agent on an 8x8 FrozenLake grid. This project dem
 
 ---
 
-### [Extrct Load and Transform in simple Python](https://github.com/MingmaMoktan/ETL_Project_1)
+### [Extrct Load and Transform in simple Python](https://github.com/MingmaMoktan/ETL_Pipeline_in_Python)
 <p>
-  <img src="https://img.shields.io/github/languages/top/MingmaMoktan/ETL_Project_1" />
-  <img src="https://img.shields.io/github/last-commit/MingmaMoktan/ETL_Project_1" />
-  <img src="https://img.shields.io/github/repo-size/MingmaMoktan/ETL_Project_1" />
+  <img src="https://img.shields.io/github/languages/top/MingmaMoktan/ETL_Pipeline_in_Python" />
+  <img src="https://img.shields.io/github/last-commit/MingmaMoktan/ETL_Pipeline_in_Python" />
+  <img src="https://img.shields.io/github/repo-size/MingmaMoktan/ETL_Pipeline_in_Python" />
 </p>
 Data extraction, cleaning, and loading pipeline using Python and SQL.
 
