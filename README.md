@@ -45,7 +45,7 @@
 
 ## Featured Projects
 
-### [Reinforcement Learning: FrozenLake-v1](3_Reinforcement_learning/)
+### [Reinforcement Learning Project](https://github.com/MingmaMoktan/Machine-Learning-Portfolio/tree/main/3_Reinforcement_learning)
 <p>
   <img src="https://img.shields.io/github/languages/top/MingmaMoktan/Machine-Learning-Portfolio" />
   <img src="https://img.shields.io/github/last-commit/MingmaMoktan/Machine-Learning-Portfolio" />
