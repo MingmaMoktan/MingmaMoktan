@@ -45,7 +45,7 @@
 
 ## Featured Projects
 
-### [Reinforcement Learning Project](https://github.com/MingmaMoktan/Machine-Learning-Portfolio/tree/main/3_Reinforcement_Learning/1_FrozenLake-Q-Learning)
+### [Q-learning agent on an 8x8 FrozenLake grid](https://github.com/MingmaMoktan/Machine-Learning-Portfolio/tree/main/3_Reinforcement_Learning/1_FrozenLake-Q-Learning)
 <p>
   <img src="https://img.shields.io/github/languages/top/MingmaMoktan/Machine-Learning-Portfolio" />
   <img src="https://img.shields.io/github/last-commit/MingmaMoktan/Machine-Learning-Portfolio" />
@@ -54,7 +54,7 @@ Implementation of a Q-learning agent on an 8x8 FrozenLake grid. This project dem
 
 ---
 
-### [Extrct Load and Transform in simple Python](https://github.com/MingmaMoktan/ETL_Pipeline_in_Python)
+### [ETL Pipeline: World's Largest Banks in Python](https://github.com/MingmaMoktan/ETL_Pipeline_in_Python)
 <p>
   <img src="https://img.shields.io/github/languages/top/MingmaMoktan/ETL_Pipeline_in_Python" />
   <img src="https://img.shields.io/github/last-commit/MingmaMoktan/ETL_Pipeline_in_Python" />
@@ -64,7 +64,7 @@ Data extraction, cleaning, and loading pipeline using Python and SQL.
 
 ---
 
-### [Automated Backup Script](https://github.com/MingmaMoktan/Automated_backup_script)
+### [Automated Backup Script for scheduled file archiving](https://github.com/MingmaMoktan/Automated_backup_script)
 <p>
   <img src="https://img.shields.io/github/languages/top/MingmaMoktan/Automated_backup_script" />
   <img src="https://img.shields.io/github/last-commit/MingmaMoktan/Automated_backup_script" />
@@ -74,7 +74,7 @@ A shell-based automated backup solution for scheduled file archiving.
 
 ---
 
-### [AI Chatbot Django](https://github.com/MingmaMoktan/My_Py_Projects/tree/master/3.%20Advanced%20Projects/Django)
+### [AI Chatbot Django that responds to specific prompts](https://github.com/MingmaMoktan/My_Py_Projects/tree/master/3.%20Advanced%20Projects/Django)
 <p>
   <img src="https://img.shields.io/github/languages/top/MingmaMoktan/My_Py_Projects" />
   <img src="https://img.shields.io/github/last-commit/MingmaMoktan/My_Py_Projects" />
