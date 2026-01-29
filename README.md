@@ -45,6 +45,16 @@
 
 ## Featured Projects
 
+### [ETL Project 1](https://github.com/MingmaMoktan/Machine-Learning-Portfolio/3_Reinforcement_learning)
+<p>
+  <img src="https://img.shields.io/github/languages/top/MingmaMoktan/Machine-Learning-Portfolio/3_Reinforcement_learning" />
+  <img src="https://img.shields.io/github/last-commit/MingmaMoktanMachine-Learning-Portfolio/3_Reinforcement_learning" />
+  <img src="https://img.shields.io/github/repo-size/MingmaMoktan/Machine-Learning-Portfolio/3_Reinforcement_learning" />
+</p>
+Reinforcement learning in FrozenLake-v1 8x8 canvas. Check how the trained model runs using the Q-values from the A table. 
+
+---
+
 ### [ETL Project 1](https://github.com/MingmaMoktan/ETL_Project_1)
 <p>
   <img src="https://img.shields.io/github/languages/top/MingmaMoktan/ETL_Project_1" />
