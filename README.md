@@ -54,7 +54,7 @@ Implementation of a Q-learning agent on an 8x8 FrozenLake grid. This project dem
 
 ---
 
-### [ETL Project 1](https://github.com/MingmaMoktan/ETL_Project_1)
+### [Extrct Load and Transform in simple Python](https://github.com/MingmaMoktan/ETL_Project_1)
 <p>
   <img src="https://img.shields.io/github/languages/top/MingmaMoktan/ETL_Project_1" />
   <img src="https://img.shields.io/github/last-commit/MingmaMoktan/ETL_Project_1" />
@@ -74,17 +74,7 @@ A shell-based automated backup solution for scheduled file archiving.
 
 ---
 
-### [Spotify Clone](https://github.com/MingmaMoktan/Spotify_clone)
-<p>
-  <img src="https://img.shields.io/github/languages/top/MingmaMoktan/Spotify_clone" />
-  <img src="https://img.shields.io/github/last-commit/MingmaMoktan/Spotify_clone" />
-  <img src="https://img.shields.io/github/repo-size/MingmaMoktan/Spotify_clone" />
-</p>
-A UI clone of Spotify built using web technologies.
-
----
-
-### [My Python Projects](https://github.com/MingmaMoktan/My_Py_Projects)
+### [AI Chatbot Django](https://github.com/MingmaMoktan/My_Py_Projects/tree/master/3.%20Advanced%20Projects/Django)
 <p>
   <img src="https://img.shields.io/github/languages/top/MingmaMoktan/My_Py_Projects" />
   <img src="https://img.shields.io/github/last-commit/MingmaMoktan/My_Py_Projects" />
