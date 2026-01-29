@@ -45,12 +45,12 @@
 
 ## Featured Projects
 
-### [Reinforcement Learning: FrozenLake Q-Learning](3_Reinforcement_learning/)
+### [Reinforcement Learning: FrozenLake-v1](3_Reinforcement_learning/)
 <p>
-  <img src="https://img.shields.io/github/languages/top/MingmaMoktan/Machine-Learning-Portfolio?path=3_Reinforcement_learning" />
+  <img src="https://img.shields.io/github/languages/top/MingmaMoktan/Machine-Learning-Portfolio" />
   <img src="https://img.shields.io/github/last-commit/MingmaMoktan/Machine-Learning-Portfolio" />
 </p>
-Reinforcement learning implementation in FrozenLake-v1 (8x8 canvas). This project demonstrates how a trained agent navigates a grid by optimizing Q-values using the Bellman Equation. 
+Implementation of a Q-learning agent on an 8x8 FrozenLake grid. This project demonstrates state-space exploration and Q-table optimization to find the safest path across the ice.
 
 ---
 
